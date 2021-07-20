@@ -10,8 +10,8 @@ import history from '../../history'
 
 const _Header = ({ removeLogin }) => {
   return (
-    <Header aria-label="OpenEEW Dashboard">
-      <HeaderName element={Link} to="/events" prefix="OpenEEW">
+    <Header aria-label="XtressMesh Dashboard">
+      <HeaderName element={Link} to="/events" prefix="XtressMesh">
         Dashboard
       </HeaderName>
       {removeLogin ? null : (

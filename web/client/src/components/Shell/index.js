@@ -20,7 +20,7 @@ import { Link } from 'react-router-dom'
 import history from '../../history'
 
 const Shell = ({ isSideNavExpanded, sideNavToggle }) => (
-  <Header aria-label="OpenEEW Dashboard">
+  <Header aria-label="XtressMesh Dashboard">
     <SkipToContent />
     <HeaderMenuButton
       aria-label="Open menu"

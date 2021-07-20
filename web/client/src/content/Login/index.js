@@ -6,7 +6,7 @@ import AppContext from '../../context/app'
 import LoginInput from '../../components/LoginInput'
 import Header from '../../components/Header'
 
-import { ReactComponent as Logo } from '../../assets/openeew_logo.svg'
+import { ReactComponent as Logo } from '../../assets/xtr_logo.svg'
 
 import AuthClient from '../../rest/auth'
 import animation from './animation'
@@ -97,7 +97,7 @@ const Login = ({ history }) => {
           <Logo width={50} className="marb-2" />
           <h1 className="login__title" tabIndex={0}>
             {t('content.login.title')}
-            <span className="login__openeew">{` OpenEEW`}</span>
+            <span className="login__openeew">{` XtressMesh`}</span>
           </h1>
         </div>
 

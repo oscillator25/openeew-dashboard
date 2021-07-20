@@ -1,7 +1,7 @@
 {
   "components": {
     "header": {
-      "title": "OpenEEW Monitoring",
+      "title": "XtressMesh Monitoring",
       "notifications": "Notifications",
       "avatar": "User avatar"
     },
@@ -82,7 +82,7 @@
       "continue": "Continue",
       "rememberMe": "Remember Me",
       "loggingIn": "Logging in",
-      "enterId": "Enter your OpenEEW ID",
+      "enterId": "Enter your XtressMesh ID",
       "errors": {
         "errorHeading": "Error logging in",
         "generic": "There was a problem processing that request",
@@ -90,12 +90,12 @@
       },
       "form": {
         "labels": {
-          "openeewId": "OpenEEW ID",
+          "openeewId": "XtressMesh ID",
           "password": "Password"
         },
         "errors": {
-          "idRequired": "Please enter your OpenEEW ID",
-          "idInvalid": "OpenEEW ID must be a valid email",
+          "idRequired": "Please enter your XtressMesh ID",
+          "idInvalid": "XtressMesh ID must be a valid email",
           "passwordRequired": "Please enter your password"
         }
       }
